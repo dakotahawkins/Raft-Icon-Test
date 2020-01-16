@@ -3,7 +3,7 @@ namespace DakotaHawkins
     [ModTitle("Icon Test")] // The mod name.
     [ModDescription("Test Mod Please Ignore")] // Short description for the mod.
     [ModAuthor("Dakota Hawkins")] // The author name of the mod.
-    [ModIconUrl("https://raw.githubusercontent.com/dakotahawkins/Raft-Icon-Test/master/icon.ico")] // An icon for your mod. Its recommended to be 128x128px and in .jpg format.
+    [ModIconUrl("https://raw.githubusercontent.com/dakotahawkins/Raft-Icon-Test/master/StackOfBooks.svg")] // An icon for your mod. Its recommended to be 128x128px and in .jpg format.
     [ModWallpaperUrl("https://raw.githubusercontent.com/dakotahawkins/Raft-Icon-Test/master/banner.jpg")] // A banner for your mod. Its recommended to be 330x100px and in .jpg format.
     [ModVersionCheckUrl("https://raw.githubusercontent.com/dakotahawkins/Raft-Icon-Test/master/version.txt")] // This is for update checking. Needs to be a .txt file with the latest mod version.
     [ModVersion("1.0")] // This is the mod version.
